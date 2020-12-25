@@ -1,0 +1,5 @@
+# Don't track these folders/files
+
+sample_images/
+videos/
+completed_images/
